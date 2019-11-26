@@ -1,0 +1,48 @@
+.auto-suggect-list {
+    width: 265px;
+}
+.auto-suggect-list input {
+    display: block;
+    width: 100%;
+    height: 36px;
+}
+.auto-suggect-list ul {
+    list-style: none;
+    margin: 0;
+    padding: 0px 0 0px 0px;
+    border: 1px solid #dad1d1;
+    background: #fff;
+}
+.auto-suggect-list ul li {
+    padding-bottom: 4px;
+    border-bottom: 1px solid #dad1d1;
+    padding-top: 4px;
+    padding-left: 5px;
+    position: relative;
+}
+.header-section{
+    border-bottom: 1px solid #dbd2d2;
+    padding: 24px 0;
+}
+/* .plant-result td{
+    border-bottom: 1px solid #cabebe;
+    padding: 8px 14px;
+} */
+.population-percent{
+    position: absolute;
+    left: 0;
+    top: 0;
+    height: 100%;
+    background-color: #b5b5b5;
+    opacity: 0.2;
+}
+.container-section{
+    margin-top: 35px;
+}
+.loading-img{
+    float: right;
+    margin-top: -32px;
+    top: -2px;
+    display: inline-block;
+    margin-right: 9px;
+}

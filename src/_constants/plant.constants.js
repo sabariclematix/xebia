@@ -1,0 +1,7 @@
+export const plantConstants = {
+    GETPLANT_FAILURE: 'PANT_FAILURE',
+    GETPLANTSEARCHLIST: 'PLANT_SEARCH_LIST',
+    CLEAR: 'CLEAR',
+    RESET:'RESET',
+    LOADING:'LOADING'
+};
